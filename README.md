@@ -1,21 +1,9 @@
-# PaymentGateway
+IyBQYXltZW50R2F0ZXdheQoKCi0tLQoKIyMjIERlbW8KCi0tLQoKIyMjIElu
+c3RhbGwgTGlicmFyeQoKYGBgYmFzaApkYXJ0IHB1YiBhZGQgcGF5bWVudF9n
+YXRld2F5CmBgYAoKb3IgZmx1dHRlcgoKYGBgYmFzaApkYXJ0IHB1YiBhZGQg
+cGF5bWVudF9nYXRld2F5X2ZsdXR0ZXIKYGBgCiAjIHBheW1lbnRfZ2F0ZXdh
+eQo=
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add payment_gateway
-```
-
-or flutter
-
-```bash
-dart pub add payment_gateway_flutter
-```
- # payment_gateway
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
